@@ -9,6 +9,7 @@ html {
   font-family: Arial, sans-serif;
 }
 
+<<<<<<< HEAD
 footer{
 text-align:center;
 padding:40px 20px;
@@ -33,6 +34,9 @@ transition:.3s;
 .developer-credit a:hover{
 color:white;
 }
+=======
+
+>>>>>>> 409fe9ae7f56075a7df97c42500fc68c19476fb9
 body {
   line-height: 1.6;
   color: #333;
